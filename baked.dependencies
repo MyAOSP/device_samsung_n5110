@@ -1,11 +1,11 @@
 [
     {
-        "repository": "TeamBAKED/android_device_samsung_smdk4412-common",
+        "repository": "TeamBAKED/device_samsung_smdk4412-common",
         "target_path": "device/samsung/smdk4412-common"
 	"branch": "kk-4.4"
     },
     {
-        "repository": "TeamBAKED/android_device_samsung_kona-common",
+        "repository": "TeamBAKED/device_samsung_kona-common",
         "target_path": "device/samsung/kona-common"
 	"branch": "kk4.4"
     },
