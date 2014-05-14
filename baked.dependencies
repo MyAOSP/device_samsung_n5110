@@ -1,24 +1,27 @@
 [
     {
         "repository": "TeamBAKED/device_samsung_smdk4412-common",
-        "target_path": "device/samsung/smdk4412-common"
-	"branch": "kk-4.4"
+        "target_path": "device/samsung/smdk4412-common",
+        "branch": "kk-4.4"
     },
     {
         "repository": "TeamBAKED/device_samsung_kona-common",
-        "target_path": "device/samsung/kona-common"
-	"branch": "kk4.4"
+        "target_path": "device/samsung/kona-common",
+        "branch": "kk4.4"
     },
     {
         "repository": "CyanogenMod/android_kernel_samsung_smdk4412",
-        "target_path": "kernel/samsung/smdk4412"
+        "target_path": "kernel/samsung/smdk4412",
+        "branch": "cm-11.0"
     },
     {
         "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
-        "target_path": "packages/apps/SamsungServiceMode"
+        "target_path": "packages/apps/SamsungServiceMode",
+        "branch": "cm-11.0"
     },
     {
-        "repository": "CyanongenMod/android_hardware_samsung",
-        "target_path": "hardware/samsung"
+        "repository": "TeamBAKED/hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch": "kk-4.4"
     }
 ]
